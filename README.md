@@ -4,11 +4,11 @@
 
 - 📫 How to reach me: 
 
-[![alt text][2.1]][2]
+    [![alt text][2.1]][2]
 
-[2.1]: http://i.imgur.com/P3YfQoD.png
+    [2.1]: http://i.imgur.com/P3YfQoD.png
 
-[2]: https://www.facebook.com/rafawitt
+    [2]: https://www.facebook.com/rafawitt
 
 
 <!--
