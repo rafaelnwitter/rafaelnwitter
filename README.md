@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael Witt and [rafaelwitter](https://github.com/rafaelwitter) owner's profile</h1>
+<h1 align="center">Hi 👋, I'm Rafael Witt and [https://github.com/rafaelwitter](rafaelwitter) owner's profile</h1>
 <h3 align="center">A passionate backend developer from Floripa/Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelwitter&label=Profile%20views&color=1a1a1a&style=plastic" alt="rafaelwitter" /> </p>
