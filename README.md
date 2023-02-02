@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael Witt and [rafaelwitter](https://github.com/rafaelwitter) owner's profile</h1>
+<h1 align="center">Hi 👋, I'm Rafael Witt and @rafaelwitter owner's profile</h1>
 <h3 align="center">A passionate backend developer from Floripa/Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelnwitter&label=Profile%20views&color=1a1a1a&style=plastic" alt="rafaelnwitter" /> </p>
@@ -9,9 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rafael.netlify.app/](https://portfolio-rafael.netlify.app/)
 
+- 📝 My lost github account [https://github.com/rafaelwitter](https://github.com/rafaelwitter)
+
 - 💬 Ask me about **Backend, TypeScript, Poker, Financial Economics**
 
 - 📫 How to reach me **rafawitt@hotmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gq_qB47BEN6t4QxaOuqNQ3JhyK9qnRDL/view?usp=sharing](https://drive.google.com/file/d/1gq_qB47BEN6t4QxaOuqNQ3JhyK9qnRDL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
