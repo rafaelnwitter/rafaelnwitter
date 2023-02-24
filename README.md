@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelnwitter&label=Profile%20views&color=1a1a1a&style=plastic" alt="rafaelnwitter" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelnwitter" alt="rafaelnwitter" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelnwitter&theme=onedark" alt="rafaelnwitter" /></a> </p>
 
 - 🌱 I’m currently learning **NestJS, Kafka**
 
